@@ -28,7 +28,7 @@ X[:, 0] = labelencoder_X.fit_transform(X[:, 0])
 onehotencoder = OneHotEncoder(categorical_features = [0])
 X = onehotencoder.fit_transform(X).toarray()
 labelencoder_y = LabelEncoder()
-y = labelencoder_y.fit_transform(Y)
+y = labelencoder_y.fit_transform(y)
 
 # Splitting dataset into the Training set and Test set
 from sklearn.cross_validation import train_test_split
