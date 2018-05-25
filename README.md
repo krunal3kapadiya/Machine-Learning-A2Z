@@ -2,7 +2,7 @@
 
 Machine Learning A2Z courses developed by [Kirill Eremenko](https://www.linkedin.com/in/keremenko/) and [Hadelin de Ponteves](https://www.linkedin.com/in/hadelin-de-ponteves-1425ba5b/). 
 
-I implemented code while learning it by tutorials. 
+I implemented code when I was learning it by tutorials. 
 
 ## Questions
 
